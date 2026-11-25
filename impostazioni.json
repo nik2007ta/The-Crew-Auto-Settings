@@ -1,7 +1,7 @@
 {
   "auto": [
     {
-      "nome": "Ford Mustang GT",
+      "nome": "Jeep Wrangler",
       "modalita": [
         {
           "nome": "Gara",
@@ -28,21 +28,6 @@
             "frizione_assistita": true
           },
           "note": "Esempio: sostituisci questi valori con i tuoi."
-        },
-        {
-          "nome": "Giro libero",
-          "difficolta": {
-            "livello": "Facile",
-            "linea_ideale": true,
-            "danni": false
-          },
-          "volante": {
-            "rotazione_gradi": 540,
-            "forza_ffb_percento": 60
-          },
-          "cambio": {
-            "tipo": "Automatico"
-          }
         }
       ]
     }
