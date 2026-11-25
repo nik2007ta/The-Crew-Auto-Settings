@@ -5,7 +5,7 @@
       "modalita": [
         {
           "nome": "Default",
-          "difficoltà":
+          "difficoltà": {
             "abs": "Medio",
             "controllo_trazione": "Basso",
             "linea_ideale": false,
