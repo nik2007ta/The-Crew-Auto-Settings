@@ -1,0 +1,50 @@
+{
+  "auto": [
+    {
+      "nome": "Ford Mustang GT",
+      "modalita": [
+        {
+          "nome": "Gara",
+          "difficolta": {
+            "livello": "Difficile",
+            "abs": "Medio",
+            "controllo_trazione": "Basso",
+            "linea_ideale": false,
+            "danni": true
+          },
+          "volante": {
+            "rotazione_gradi": 900,
+            "forza_ffb_percento": 70,
+            "sensibilita_percento": 50,
+            "zona_morta_percento": 0
+          },
+          "pedali": {
+            "zona_morta_acceleratore": 5,
+            "zona_morta_freno": 5,
+            "curva_freno": "Lineare"
+          },
+          "cambio": {
+            "tipo": "Sequenziale",
+            "frizione_assistita": true
+          },
+          "note": "Esempio: sostituisci questi valori con i tuoi."
+        },
+        {
+          "nome": "Giro libero",
+          "difficolta": {
+            "livello": "Facile",
+            "linea_ideale": true,
+            "danni": false
+          },
+          "volante": {
+            "rotazione_gradi": 540,
+            "forza_ffb_percento": 60
+          },
+          "cambio": {
+            "tipo": "Automatico"
+          }
+        }
+      ]
+    }
+  ]
+}
