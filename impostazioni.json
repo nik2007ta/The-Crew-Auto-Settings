@@ -4,9 +4,8 @@
       "nome": "Jeep Wrangler",
       "modalita": [
         {
-          "nome": "Gara",
-          "difficolta": {
-            "livello": "Difficile",
+          "nome": "Default",
+          "difficoltà":
             "abs": "Medio",
             "controllo_trazione": "Basso",
             "linea_ideale": false,
